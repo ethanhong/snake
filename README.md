@@ -8,6 +8,7 @@ or
 
 
 How to play?
+
 Use arrow keys to control the snake.
 
 Enjoy!
